@@ -1,0 +1,17 @@
+name: Wildlands
+version: 1.0
+main: me.moon.Wildlands.Main
+author: Moon
+description: Utilities plugin for Wildlands SMP
+api-version: 1.20
+folia-supported: true
+
+commands:
+  wildlands:
+    description: reload config
+    aliases: [wl]
+    usage: /wildlands reload
+    permission: wildlands.reload
+  cuu:
+    description: teleport player to y+10
+    usage: /cuu

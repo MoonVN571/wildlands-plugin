@@ -1,0 +1,19 @@
+whitelist:
+  enabled: false
+  url: "http://domain.com/whitelist"
+  token: "your_api_token"
+  not-whitelisted: "&cBạn không được phép vào server này!"
+  error: "&cHệ thống đang bảo trì vui lòng vào lại sau!"
+
+death-position:
+  enabled: false
+  message: "&8[&9Info&8] &fBạn vừa tử nạn tại {x} {y} {z} ({world})"
+
+cuu:
+  enabled: false
+  wait: "&8[&aServer&8] &cBạn cần chờ một chút thời gian dể dụng lệnh này tiếp tục!"
+  ok: "&8[&aServer&8] &fBạn đã được dịch chuyển!"
+
+disabled-msgs: "&8[&aServer&8] &cTính năng này đang bị tắt"
+no-perm: "&8[&aServer&8] &fBạn không thể sử dụng lệnh này!"
+reloaded: "&8[&aWildlands&8] &fConfiguration reloaded!"
